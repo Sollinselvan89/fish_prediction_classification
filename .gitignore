@@ -1,0 +1,46 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Large data files
+*.csv
+# Uncomment the line below to include Fish.csv in your repo
+!Fish.csv
+
+# Model files - commenting out since you need to submit the model
+# *.pkl
+# Uncomment if you want to exclude all pkl files except your fish market model
+# !fish_market_model.pkl
+
+# Log files
+*.log
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Flask instance folder
+instance/
+
+# Heroku specific
+*.env.local
+node_modules/

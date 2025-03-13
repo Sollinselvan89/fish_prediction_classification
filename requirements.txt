@@ -1,0 +1,20 @@
+# Data processing and analysis
+numpy==1.24.3
+pandas==2.0.1
+scikit-learn==1.2.2
+
+# Data visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Model persistence
+joblib==1.2.0
+
+# Web application
+Flask==2.3.2
+Werkzeug==2.3.4
+gunicorn==20.1.0
+
+# Jupyter notebook (for development)
+jupyter==1.0.0
+ipykernel==6.22.0
